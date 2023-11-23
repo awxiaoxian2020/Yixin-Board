@@ -26,7 +26,7 @@
 24=Max depth:
 25=ply
 26=Max node number:
-27=M
+27=K
 28=Predefined Level
 29=Fast
 30=Slow
@@ -106,3 +106,8 @@
 109=Swap
 110=Add 2 more pieces
 111=Resign
+112=Database Readonly
+113=Board Text
+114=Input Board text:
+115=Saving database to
+116=Are your sure to delete all branches?
